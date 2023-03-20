@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Parking system</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="addresserror">Enter a valid address</string>
+    <string name="invalid_password">Please enter atleast 6 digit valid password</string>
+    <string name="invalid_cardno">Please enter valid card no</string>
+    <string name="invalid_cvv">Please enter valid cvv</string>
+    <string name="invalid_amount">Please enter valid amount</string>
+
+
+</resources>
